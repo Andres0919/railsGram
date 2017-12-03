@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a61bf2-1056-46a9-83bc-7bd2327fc724" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/control/saludo.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/home/index.js.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/images/_form.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/images/_image.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/images/edit.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/images/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/images/show.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/local.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/time.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.es.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/es.activerecord.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/es.views.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/custom_form_builder.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-    </list>
+    <list default="true" id="95a61bf2-1056-46a9-83bc-7bd2327fc724" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -378,12 +361,12 @@
       <workItem from="1512008875213" duration="739000" />
       <workItem from="1512009771692" duration="5643000" />
       <workItem from="1512185815576" duration="4236000" />
-      <workItem from="1512270442973" duration="9001000" />
+      <workItem from="1512270442973" duration="9431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36037000" />
+    <option name="totallyTimeSpent" value="36467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="27" width="683" height="741" extended-state="4" />
